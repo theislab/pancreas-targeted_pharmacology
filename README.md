@@ -21,4 +21,4 @@ If the materials in this repo are of use to you, please consider citing the abov
 
 If you have any questions about the data or analysis feel free to contact us. :)
 
-![overview](https://github.com/theislab/pancreas-targeted_pharmacology/edit/master/overview.png)
+![overview](overview.png)
