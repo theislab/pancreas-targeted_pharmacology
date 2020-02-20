@@ -5,6 +5,8 @@ S. Sachs, A. Bastidas-Ponce, S. Tritschler et al., "Targeted pharmacological the
 doi: 10.1038/s42255-020-0171-3
 News & Views by R. Kulkarni: 10.1038/s42255-020-0176-y
 
+![overview](overview.png)
+
 The notebooks contain code for the following analyses:
 - scRNAseq_preprocessing_clustering.ipynb  -->  QC, preprocessing, clustering and annotation steps (input data are raw count matrices)
 - scRNAscRNA_seq_main_analysis.ipynb  -->  main analyses to reproduce all results (input data are preprocessed, filtered and annotated count matrices)
@@ -21,4 +23,4 @@ If the materials in this repo are of use to you, please consider citing the abov
 
 If you have any questions about the data or analysis feel free to contact us. :)
 
-![overview](overview.png)
+
