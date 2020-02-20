@@ -1,8 +1,9 @@
 # pancreas-targeted pharmacology of diabetic mSTZ mice
 
 This repository contains all scripts to reproduce the results of the single-cell data from:  
-S. Sachs, A. Bastidas-Ponce, S. Tritschler et al., "Targeted pharmacological therapy restores β-cell function for diabetes remission", Nature Metabolism, in revision
-
+S. Sachs, A. Bastidas-Ponce, S. Tritschler et al., "Targeted pharmacological therapy restores β-cell function for diabetes remission", Nature Metabolism, 2020
+doi: 10.1038/s42255-020-0171-3
+News & Views by R. Kulkarni: 10.1038/s42255-020-0176-y
 
 The notebooks contain code for the following analyses:
 - scRNAseq_preprocessing_clustering.ipynb  -->  QC, preprocessing, clustering and annotation steps (input data are raw count matrices)
