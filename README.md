@@ -20,3 +20,5 @@ Note that most of the analysis was done with scanpy v1.0.4. Some functions have 
 If the materials in this repo are of use to you, please consider citing the above publication.
 
 If you have any questions about the data or analysis feel free to contact us. :)
+
+![overview](https://github.com/theislab/pancreas-targeted_pharmacology/edit/master/overview.png)
