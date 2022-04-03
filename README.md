@@ -13,7 +13,7 @@ The notebooks contain code for the following analyses:
 - scRNAseq_RNAvelocity_estimation.ipynb  -->  RNA velocity estimation (input data are preprocessed, filtered and annotated count matrices and bam files to extract splicing information)
 - scRNAseq_comparison_b-cell_maturation.ipynb  -->  comparison to postnatal maturation data (Qiu et al, 2017, Cell metabolism, https://doi.org/10.1016/j.cmet.2017.04.003)  
 
-The data has been deposited in GEO under accession number GSE132188. The preprocessed, filtered and annotated count matrices are provided as supplementary file as a Anndata object (h5ad-file).  
+The data has been deposited in GEO under accession number GSE128565. The preprocessed, filtered and annotated count matrices are provided as supplementary file as a Anndata object (h5ad-file).  
 
 For further exploration load the adata.h5ad into a cellxgene browser for visualization or into a python-session for additional analyses using scanpy.  
 
